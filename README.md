@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there! 👋 I'm Ben
 
-<!--
-**BedeDD/BedeDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I'm currently working at [aifinyo AG](https://www.aifinyo.de/) as a Senior Ruby on Rails developer
+- 🌱 I'm always thriving to learn new stuff
+- 📫 How to reach me: you don't (not yet)
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+## My Skills
+- Programming Languages: Ruby, JavaScript, Bash
+- Frameworks & Libraries: Rails
+- Tools & Technologies: GitHub, RubyMine, Puma, Nginx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+## Projects
+Here are some of my notable projects:
+
+1. [Project Name](Link to Project)
+    - Brief description of the project
+    - Technologies used
+
+2. [Project Name](Link to Project)
+    - Brief description of the project
+    - Technologies used
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bededd&show_icons=true&theme=radical)
 -->
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benjamin_Deutscher-blue)](https://www.linkedin.com/in/benjamin-deutscher/)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-YourHandle-blue)](Your Twitter URL)
+[![Personal Website](https://img.shields.io/badge/Website-YourWebsite-green)](Your Website URL) -->
+
+<!-- Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat! -->
