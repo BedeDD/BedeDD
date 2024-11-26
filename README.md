@@ -11,17 +11,16 @@
 - Frameworks & Libraries: Rails
 - Tools & Technologies: GitHub, RubyMine, Puma, Nginx
 
-<!-- 
 ## Projects
-Here are some of my notable projects:
+Here are some of my projects:
 
-1. [Project Name](Link to Project)
-    - Brief description of the project
-    - Technologies used
+1. [guided_tour](https://github.com/its-bede/guided_tour)
+    - show a guided tour overlay on your website by just provide a hash to the gems helper
+    - Rails, Stimulus, Bootstrap
 
-2. [Project Name](Link to Project)
-    - Brief description of the project
-    - Technologies used
+2. [Rails Feature Flip](https://github.com/its-bede/rails-feature-flip)
+    - Rails generator to create feature flip config classes that can be used to define what features can be used in what stage and/or how they should behave in what stage.
+    - Rails
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bededd&show_icons=true&theme=radical)
