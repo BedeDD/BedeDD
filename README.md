@@ -21,7 +21,7 @@ Here are some of my projects:
 2. [Rails Feature Flip](https://github.com/its-bede/rails-feature-flip)
     - Rails generator to create feature flip config classes that can be used to define what features can be used in what stage and/or how they should behave in what stage.
     - Rails
-
+<!--
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bededd&show_icons=true&theme=radical)
 -->
