@@ -8,8 +8,7 @@ tags: ruby jekyll
 #  - /hello/
 ---
 
-# Jekyll - heard it numerous times, never used it
-
+Jekyll - heard it numerous times, never used it.
 As a Ruby developer, I've always heard about Jekyll in the Rails community, but somehow never got around to trying it. Recently, I decided to take the plunge and set up my own blog using Jekyll, and I wanted to share my first impressions.
 
 The setup process was surprisingly straightforward. If you're familiar with Ruby gems and bundler, you'll feel right at home. It's essentially `gem install jekyll bundler` and you're most of the way there. The initial scaffolding reminds me of `rails new` - you get a simple project structure for a fresh start.
